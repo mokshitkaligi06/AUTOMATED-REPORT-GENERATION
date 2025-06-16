@@ -5,7 +5,7 @@
 *DOMAIN:*PYTHON
 *DURATION:*4 WEEKS
 *MENTOR:*NEELA SANTOSH
-This project is designed to automatically generate reports using dynamic data sources. It streamlines the process of collecting, formatting, and exporting information into professional documents such as PDF, Excel, or HTML reports — reducing manual effort and ensuring consistency.
+##This project is designed to automatically generate reports using dynamic data sources. It streamlines the process of collecting, formatting, and exporting information into professional documents such as PDF, Excel, or HTML reports — reducing manual effort and ensuring consistency.
 
 🔧 Features
 Scheduled or on-demand report generation
